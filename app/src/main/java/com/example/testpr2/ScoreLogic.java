@@ -13,6 +13,7 @@ private int score = 0;
 
     // Приьваление очков по величине слова
     public void plusScore(String word){
-
+        int newScore = word.length();
+        setScore(getScore() + newScore);
     }
 }
