@@ -31,7 +31,7 @@ public class MainActivity extends AppCompatActivity {
 
     // Логика нажатия на кнопку проверки слова
     public void onOkClick(View view) {
-        
+
     }
 
 }
